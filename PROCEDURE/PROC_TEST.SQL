@@ -1,0 +1,8 @@
+
+  CREATE OR REPLACE EDITIONABLE PROCEDURE "SRG"."PROC_TEST" as begin
+
+-- 18-FEB-2026 14:18:07
+
+ null; end proc_test;
+
+/
